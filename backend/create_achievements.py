@@ -242,14 +242,14 @@ for data in achievements_data:
     
     if created:
         created_count += 1
-        print(f"✅ Creado: {achievement.icon} {achievement.name}")
+        print(f"Creado: {achievement.icon} {achievement.name}")
     else:
         # Actualizar si ya existe
         for key, value in data.items():
             setattr(achievement, key, value)
         achievement.save()
         updated_count += 1
-        print(f"🔄 Actualizado: {achievement.icon} {achievement.name}")
+        print(f" Actualizado: {achievement.icon} {achievement.name}")
 
 print(f"\n✨ Proceso completado!")
 print(f"   Logros creados: {created_count}")
