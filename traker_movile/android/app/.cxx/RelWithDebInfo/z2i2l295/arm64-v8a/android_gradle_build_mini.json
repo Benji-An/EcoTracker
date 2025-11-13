@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\sergu\\OneDrive\\Desktop\\carpeta de ekotaker\\traker_movile\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\sergu\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\sergu\\OneDrive\\Desktop\\carpeta de ekotaker\\traker_movile\\android\\app\\.cxx\\RelWithDebInfo\\z2i2l295\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\sergu\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\sergu\\OneDrive\\Desktop\\carpeta de ekotaker\\traker_movile\\android\\app\\.cxx\\RelWithDebInfo\\z2i2l295\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

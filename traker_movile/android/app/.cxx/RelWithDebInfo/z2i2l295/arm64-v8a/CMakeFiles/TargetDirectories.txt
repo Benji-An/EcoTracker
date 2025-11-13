@@ -1,0 +1,2 @@
+C:/Users/sergu/OneDrive/Desktop/carpeta de ekotaker/traker_movile/android/app/.cxx/RelWithDebInfo/z2i2l295/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/sergu/OneDrive/Desktop/carpeta de ekotaker/traker_movile/android/app/.cxx/RelWithDebInfo/z2i2l295/arm64-v8a/CMakeFiles/rebuild_cache.dir
